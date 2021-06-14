@@ -1,0 +1,6 @@
+{
+    "viewportWidth": 1200,
+    "viewportHeight": 800,
+    "defaultCommandTimeout": 10000,
+    "baseUrl": "https://ibk-pefisa.web.app/login"
+}

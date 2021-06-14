@@ -1,0 +1,26 @@
+{
+  "name": "template-cypress-cucumber",
+  "version": "1.0.0",
+  "description": "automatcao de teste com cy e cucumber",
+  "main": "index.js",
+  "dependencies": {
+    "cypress-cucumber-preprocessor": "^4.0.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/support/steps"
+  },
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.5.0",
+    "cypress": "^7.3.0"
+  },
+  "scripts": {
+    "cy:run": "cypress run --config video=false --env allure=true",
+    "allure:generate": "allure generate allure-results",
+    "allure:open": "allure open allure-report",
+    "allure:clear": "rm -r allure-results/ allure-report || true",
+    "test": "npx npm-run-all cy:run allure:generate",
+    "cypress:open": "cypress open"
+  },
+  "author": "Danilo Barbosa",
+  "license": "ISC"
+}

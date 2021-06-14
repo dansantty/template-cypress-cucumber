@@ -1,0 +1,11 @@
+[ {
+  "uid" : "15a18783aecddc0f",
+  "name" : "Efetuar o login no sistema",
+  "time" : {
+    "start" : 1619114215945,
+    "stop" : 1619114221419,
+    "duration" : 5474
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -32,4 +32,7 @@ Tiago Amaro
 ### Editado 
 ---
 
-Danilo Barbosa
+Editado por Danilo Barbosa 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Danilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-santana-barbosa/)](https://www.linkedin.com/in/danilo-santana-barbosa/) 
+[![Gmail Badge](https://img.shields.io/badge/-dansantty@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dansantty@gmail.com)](mailto:dansantty@gmail.com)

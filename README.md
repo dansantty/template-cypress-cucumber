@@ -23,3 +23,13 @@ Projeto padrão para utilização do cypress com cucumber
 ### Allure Report ###
 
 * Allure é um dashboard para relatórios dos testes executados, os comandos para run do serviço estão no arquivo package.json, também podendo ser integrado a qualquer ciclo CI
+
+### Autor
+---
+
+Tiago Amaro
+
+### Editado 
+---
+
+Danilo Barbosa

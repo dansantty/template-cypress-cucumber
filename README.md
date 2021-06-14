@@ -31,8 +31,6 @@ Tiago Amaro
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagoamaro/)](https://www.linkedin.com/in/tiagoamaro/) 
 
-tiagoamaro/
-
 ### Editado 
 ---
 

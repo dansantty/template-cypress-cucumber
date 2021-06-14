@@ -29,7 +29,7 @@ Projeto padrão para utilização do cypress com cucumber
 
 Tiago Amaro
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tiago Amaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagoamaro/)](https://www.linkedin.com/in/tiagoamaro/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Tiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagoamaro/)](https://www.linkedin.com/in/tiagoamaro/) 
 
 tiagoamaro/
 
